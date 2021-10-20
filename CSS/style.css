@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: black;
+    color: blanchedalmond;
+}
+.nov{
+    height: 600px;
+    width: 25%;
+    background-color: rgb(255, 0, 0);
+    float: left;
+}
+ul{
+    list-style-type: none;
+   color: azure;
+}
+.main{
+    height: 600px;
+    width: 75%;
+    background-color: rgb(38, 0, 255);
+    float: left;
+}
+.footer{
+    height: 100px;
+    background-color: black;
+    color: blanchedalmond;
+}   
+.black{
+    height: 100px;
+    width: 100px;
+    
+}
